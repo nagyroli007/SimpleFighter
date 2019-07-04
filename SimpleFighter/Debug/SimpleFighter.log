@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Roland\source\repos\SimpleFighter\SimpleFighter\Character.h(12,2): warning C4091:  'typedef ': ignored on left of 'phase' when no variable is declared
+  SimpleFighter.vcxproj -> C:\Users\Roland\source\repos\SimpleFighter\Debug\SimpleFighter.exe
